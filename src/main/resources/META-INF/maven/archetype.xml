@@ -1,0 +1,9 @@
+<archetype>
+  <id>maven-demo</id>
+  <sources>
+    <source>src/main/java/edu.miu.cs489.mavendemo.App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/edu.miu.cs489.mavendemo.AppTest.java</source>
+  </testSources>
+</archetype>
